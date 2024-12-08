@@ -1,0 +1,189 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.contact {
+	padding: 50px !important;
+}
+
+.termhead{
+	padding-top: 50px;
+	padding-left: 40px;
+	padding-bottom: 20px;
+}
+
+.termbody{
+	padding-left: 55px;
+	padding-right: 55px;
+	padding-bottom: 20px;
+}
+
+
+.hallofscroll{
+	height: 400px;
+	background-color: #6A281F;
+	padding: 30px;
+	text-align: left !important;
+	color: #FCECDF;
+	padding-right: 70px;
+	padding-left: 50px;
+}
+
+.halloftitle{
+	height: 250px;
+	padding-top: 40px;
+	background-color: #FBCB77;
+	color:#9E122C !important ;
+	text-align: center;
+}
+
+.hallofbody{
+	padding: 20px !important;
+	text-align: center;
+}
+
+#abouttitle {
+	padding-top:40px !important;
+	color: #9E122C;
+	
+}
+
+#aboutbg{
+	background-color: #FBCB77 !important;
+	color: #9E122C;
+}
+
+.navbar{
+	background-color: #9E122C !important;
+}
+
+.navbar-brand, .nav-link{ color:#FCECDF;
+	font-family: 'Panel';
+	
+
+}
+
+@font-face {
+  font-family: 'Bolden'; /* Name your font family */
+  src: url('Bolden-Display_Hust.otf'); /* Locate the .ttf file within your directory*/
+}
+
+@font-face{
+	font-family: 'Poppin';
+	src: url('Poppins-Regularcopy.ttf');
+}
+
+@font-face{
+	font-family: 'Panel';
+	src: url('PanelBlack.ttf');
+}
+h1, h5, h6 {font-family: 'Panel';
+}
+a, p, label, .btn-primary, .btn-secondary, .modal-body { font-family:'Poppin' }
+
+
+.padcard {
+	padding-bottom: 30px !important;
+	padding-top: 30px !important;
+	background-color: #6A281F;
+}
+
+.header{
+	background-color: #FBCB77 ;
+	color: #FCECDF;
+}
+
+.morebg {
+	background-color: #FBCB77;
+	padding: 50px;
+	margin-top: -30px;
+	color: #9E122C;
+}
+
+
+#contactbg {background-color: #FBCB77 !important;
+}
+
+.contacttext, label{
+	color: #9E122C;
+
+}
+
+.btn-primary, .btn-secondary{
+	background-color: #EE6A43 !important;
+	border: none;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: green; /* Your preferred color */
+  color: #fff; /* Optional: change text color */
+}
+
+#carleighpic {
+	transform: scale(.4);
+	float: left !important; 
+	margin-top: -190px !important;
+margin-left: -130px;
+}
+
+.aboutbody{
+	margin-left: 60px !important;
+	padding-top: 60px;
+	margin-right: 100px;
+	text-align: left;
+}
+
+#connectbtn {
+	margin-left: 70px;
+	margin-top: -210px;
+}
+
+.indexbody {
+padding: 30px;
+}
+
+
+.carousel {
+  
+overflow: hidden;
+}
+
+.carousel-inner {
+  height: 100% !important; /* Ensure the inner content matches the height */
+}
+
+.carousel-caption {
+    display: block !important; /* Ensure the captions are visible */
+    opacity: 1 !important;    /* Ensure they are not faded */
+    
+    }
+.text-bg-primary{
+
+	background-color:#6A281F !important;
+	padding: 20px;
+}
+
+#indexbody2{
+padding-top: 20px;
+}
+
+.hallofpic{
+	height: 275px;
+	width: 300px;
+	float: right;
+	overflow: hidden;
+	object-fit: cover;
+	padding-left: 70px;
+
+}
+
+a{
+	color: #FCECDF;
+}
+
+.ranktext{
+	padding-top: 30px;
+}
+
+.card img {
+  height: 300px;  /* Set the height of all card images */
+  object-fit: cover;  /* Ensure the image covers the area without stretching */
+  width: 100%;  /* Make the image responsive */
+}
